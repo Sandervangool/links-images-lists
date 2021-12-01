@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(246, 247, 242, 0.63);
+    font-family: 'Comforter', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+h1, h2{
+    color:green;
+}
+.black-border {
+    border: 5px solid black;
+}
